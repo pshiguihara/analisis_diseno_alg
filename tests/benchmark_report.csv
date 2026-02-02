@@ -1,0 +1,4 @@
+category,k,time_rec1_s,time_naive_s,speedup,precision_at_k,ap_at_k,ndcg_at_k,jaccard_at_k,spearman_rho
+Amazon_Fashion,10,8.3262,9.0743,1.0898,1.0,1.0,1.0,1.0,1.0
+Musical_Instruments,10,9.4696,9.4238,0.9952,1.0,1.0,1.0,1.0,1.0
+Software,10,12.9244,12.8017,0.9905,1.0,1.0,1.0,1.0,1.0
