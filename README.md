@@ -5,7 +5,7 @@ Script para descargar el dataset [McAuley-Lab/Amazon-Reviews-2023](https://huggi
 ## Requisitos
 
 ```bash
-conda install datasets huggingface_hub
+conda env create -f taller.yml
 ```
 
 ## Uso
