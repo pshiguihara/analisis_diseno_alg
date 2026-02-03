@@ -5,4 +5,5 @@ dependencies:
   - python=3.12
   - datasets
   - pytest
+  - matplotlib
 prefix: /Users/pshiguihara/miniforge3/envs/taller1
